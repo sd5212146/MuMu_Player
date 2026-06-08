@@ -1,0 +1,39 @@
+2026-06-07 20:22:58.635 15849-15849 AnimDir                 com.example.yyplayer                 I  onNextWithDirection: 设置 slideDirection=1
+2026-06-07 20:22:58.636 15849-15849 PlayLoop                com.example.yyplayer                 I  playNext: 过渡中, 忽略
+2026-06-07 20:22:58.703 15849-15849 Choreographer           com.example.yyplayer                 W  Frame time is 0.044480998 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+2026-06-07 20:22:59.294 15849-15849 AnimDir                 com.example.yyplayer                 I  onNextWithDirection: 设置 slideDirection=1
+2026-06-07 20:22:59.294 15849-15849 PlayLoop                com.example.yyplayer                 I  playNext: 过渡中, 忽略
+2026-06-07 20:23:02.462 15849-15849 AnimDir                 com.example.yyplayer                 I  onNextWithDirection: 设置 slideDirection=1
+2026-06-07 20:23:02.462 15849-15849 PlayLoop                com.example.yyplayer                 I  playNext: 过渡中, 忽略
+2026-06-07 20:23:04.351 15849-15849 PlayLoop                com.example.yyplayer                 I  onPlaybackStateChanged: BUFFERING, currentIndex=121
+2026-06-07 20:23:04.352 15849-18966 MediaCodec              com.example.yyplayer                 D  keep callback message for reclaim
+2026-06-07 20:23:04.360 15849-15849 PlayLoop                com.example.yyplayer                 I  onPlaybackStateChanged: READY, currentIndex=121/126, repeatMode=2
+2026-06-07 20:23:04.444 15849-15849 Choreographer           com.example.yyplayer                 W  Frame time is 0.041816 ms in the future!  Check that graphics HAL is generating vsync timestamps using the correct timebase.
+2026-06-07 20:23:05.359 15849-18966 AudioTrack              com.example.yyplayer                 I  set(): streamType -1, sampleRate 44100, format 0x1, channelMask 0x3, frameCount 11025, flags #0, notificationFrames 0, sessionId 433, transferType 3, uid -1, pid -1
+2026-06-07 20:23:05.620 15849-15849 AnimDir                 com.example.yyplayer                 I  onNextWithDirection: 设置 slideDirection=1
+2026-06-07 20:23:05.620 15849-15849 PlayLoop                com.example.yyplayer                 I  playNext: 当前索引=121/126, isPlaying=false, repeatMode=2
+2026-06-07 20:23:05.625 15849-18966 MediaCodec              com.example.yyplayer                 D  keep callback message for reclaim
+2026-06-07 20:23:05.626 15849-15849 PlayLoop                com.example.yyplayer                 I  onMediaItemTransition: index=122, reason=SEEK(跳转)
+2026-06-07 20:23:05.637 15849-15849 PlayLoop                com.example.yyplayer                 I  onPlaybackStateChanged: BUFFERING, currentIndex=122
+2026-06-07 20:23:05.642 15849-15849 PlayLoop                com.example.yyplayer                 I  playNext: player.play()
+2026-06-07 20:23:05.661 15849-18966 MediaCodec              com.example.yyplayer                 D  keep callback message for reclaim
+2026-06-07 20:23:05.670 15849-15849 Startup_Timing          com.example.yyplayer                 I  ┌── MainContent 首次 composition
+2026-06-07 20:23:05.681 15849-18966 AudioTrack              com.example.yyplayer                 I  set(): streamType -1, sampleRate 44100, format 0x1, channelMask 0x3, frameCount 11025, flags #0, notificationFrames 0, sessionId 433, transferType 3, uid -1, pid -1
+2026-06-07 20:23:05.717 15849-18966 AudioTrack              com.example.yyplayer                 I  start mClientAttributionSource.uid:10201 mClientAttributionSource.pid:15849  mSessionId:433 app name:com.example.yyplayer 
+2026-06-07 20:23:05.726 15849-15849 NowPlaying_Load         com.example.yyplayer                 I  [101699] ─── 开始加载歌词和封面: 偏偏喜欢你 (特别唯美版), isNewSong=true, searchTrigger=0 ───
+2026-06-07 20:23:05.754 15849-15849 MusicService            com.example.yyplayer                 I  [onStartCommand] action=com.example.yyplayer.action.REFRESH_NOTIFICATION, foregroundStarted=true
+2026-06-07 20:23:05.782 15849-15849 MusicService            com.example.yyplayer                 I  [refreshNotification] 完成: 偏偏喜欢你 (特别唯美版), 耗时=27ms
+2026-06-07 20:23:05.782 15849-15849 MusicService            com.example.yyplayer                 I  [onStartCommand] 完成 action=com.example.yyplayer.action.REFRESH_NOTIFICATION, 耗时=28ms
+2026-06-07 20:23:05.782 15849-18966 AudioTrack              com.example.yyplayer                 D  getTimestamp_l(128): device stall time corrected using current time 16901806191525
+2026-06-07 20:23:05.798 15849-15849 NowPlaying_Load         com.example.yyplayer                 I  [101699] 歌词命中缓存, 来源=网易云音乐
+2026-06-07 20:23:05.798 15849-15849 NowPlaying_Load         com.example.yyplayer                 I  [101699] 歌词加载完成: 18?? 来源=网易云音乐, 耗时=72ms
+2026-06-07 20:23:05.818 15849-15849 PlayLoop                com.example.yyplayer                 I  onPlaybackStateChanged: READY, currentIndex=122/126, repeatMode=2
+2026-06-07 20:23:05.819 15849-15849 PlayLoop                com.example.yyplayer                 I  onIsPlayingChanged: isPlaying=true, currentIndex=122/126, playWhenReady=true
+2026-06-07 20:23:05.820 15849-15849 MusicService            com.example.yyplayer                 I  [enterForeground] 进入前台
+2026-06-07 20:23:05.838 15849-15849 MusicService            com.example.yyplayer                 I  [refreshNotification] 完成: 偏偏喜欢你 (特别唯美版), 耗时=18ms
+2026-06-07 20:23:05.838 15849-15849 MusicService            com.example.yyplayer                 I  [enterForeground] 完成, 耗时=18ms
+2026-06-07 20:23:05.842 15849-15849 NowPlaying_Load         com.example.yyplayer                 I  [101699] 本地封面已存(MediaStore/侧边.jpg), 跳过网络获取
+2026-06-07 20:23:05.842 15849-15849 NowPlaying_Load         com.example.yyplayer                 I  [101699] ─── 全部加载完成, 耗时=116ms, hasLocalArt=true, networkUrl=false ───
+2026-06-07 20:23:05.843 15849-15849 Startup_Timing          com.example.yyplayer                 I  ┌── MainContent 首次 composition
+2026-06-07 20:23:05.874 15849-18915 gralloc4                com.example.yyplayer                 I  register: id=21c00000474, handle:0xb400007ce03daab0, vaddr=0x7c19570000
+2026-06-07 20:23:07.929  1186-1186  AudioMediaPlayerWrapper com.android.bluetooth                E  Timeout while waiting for metadata to sync for com.example.yyplayer
