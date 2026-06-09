@@ -19,8 +19,10 @@
 
 <img width="540" height="540" alt="4" src="https://github.com/user-attachments/assets/a0175339-dc2b-48c5-b7d5-e294856162f8" />
 <img width="540" height="540" alt="5" src="https://github.com/user-attachments/assets/f7cbe33a-38d2-4a32-a41f-3f8c9926e2d8" />
-<img width="540" height="960" alt="1" src="https://github.com/user-attachments/assets/92355ec7-49e7-4d8d-aa39-683c99c06af8" />
-<img width="960" height="540" alt="2" src="https://github.com/user-attachments/assets/0d57f79e-8394-481d-92fa-52660b2a7b63" />
+<img width="307" height="633" alt="3" src="https://github.com/user-attachments/assets/50966c2e-085c-4ee4-93d9-8870bca23964" />
+<img width="310" height="640" alt="2" src="https://github.com/user-attachments/assets/4f1f8265-6028-49ed-872a-b60681d4c58a" />
+
+
 ---
 
 ## 📱 关于 RG Rotate
