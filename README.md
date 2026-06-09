@@ -16,6 +16,8 @@
 ## 📖 项目简介
 
 **MuMu Player** 是一款专为 **Anbernic RG Rotate** 打造的 Android 音乐播放器。充分利用 RG Rotate 独特的 3.5 英寸 720×720 方形屏幕和可旋转转轴设计，提供横竖屏自适应切换的沉浸式听歌体验。
+<img width="963" height="969" alt="4" src="https://github.com/user-attachments/assets/a0175339-dc2b-48c5-b7d5-e294856162f8" />
+<img width="981" height="955" alt="5" src="https://github.com/user-attachments/assets/f7cbe33a-38d2-4a32-a41f-3f8c9926e2d8" />
 
 ---
 
